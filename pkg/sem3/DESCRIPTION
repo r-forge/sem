@@ -1,9 +1,9 @@
 Package: sem
-Version: 3.1-15
-Date: 2022-04-09
+Version: 3.1-16
+Date: 2024-08-25
 Title: Structural Equation Models
-Authors@R: c(person("John", "Fox", role = c("aut", "cre"), email = "jfox@mcmaster.ca"),
-	person("Zhenghua", "Nie", role = "aut", email="zhenghua.nie@gmail.com"),
+Authors@R: c(person("John", "Fox", role = "aut", email = "jfox@mcmaster.ca"),
+	person("Zhenghua", "Nie", role = c("aut", "cre"), email="zhenghua.nie@gmail.com"),
     person("Jarrett", "Byrnes", role = "aut", email="byrnes@nceas.ucsb.edu"),
     person("Michael", "Culbertson", role = "ctb"),
     person("Saikat", "DebRoy", role = "ctb"),
@@ -25,4 +25,4 @@ Description: Functions for fitting general linear structural
     equation models (with observed and latent variables) using the RAM approach, 
     and for fitting structural equations in observed-variable models by two-stage least squares.
 License: GPL (>= 2)
-URL: https://www.r-project.org, https://socialsciences.mcmaster.ca/jfox/
+URL: https://CRAN.R-project.org/package=sem
